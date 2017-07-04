@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Zhengzhou Kangyun Information technolog Co.,Ltd.</title>
+	 
+           <meta charset="utf-8">
+           <meta name="description" content="康云提供 ">
+           <meta name="keywords" content="康云,郑州康云,康云信息,软件开发,医疗软件开发,动态网站建设">
+           <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+           <meta name="viewport" content="width=device-width">	
+          
+           <title>Zhengzhou Kangyun Information technolog Co.,Ltd.</title>
 　　　　　<link rel="stylesheet" href="/css/app.css">
 	</head>
 	<body>
@@ -58,12 +65,12 @@
 　　　　　　　　　　　　　　
 
         <div class="row">
-        <div class="col-md-2"><a href="https://www.google.com" target="_blank">公司简介</a></div>
-        <div class="col-md-2"><a href="google.com" target="_blank">经营战略</a></div>
-        <div class="col-md-2"><a href="google.com" target="_blank">产品案例</a></div>
-        <div class="col-md-2"><a href="google.com" target="_blank">公司新闻</a></div>
-        <div class="col-md-2"><a href="google.com" target="_blank">企业荣誉</a></div>
-        <div class="col-md-2"><a href="google.com" target="_blank">发展动态</a></div>
+        <div class="col-md-2"><a href="#" target="_self">公司简介</a></div>
+        <div class="col-md-2"><a href="#" target="_self">经营战略</a></div>
+        <div class="col-md-2"><a href="#" target="_self">产品案例</a></div>
+        <div class="col-md-2"><a href="#" target="_self">公司新闻</a></div>
+        <div class="col-md-2"><a href="#" target="_self">企业荣誉</a></div>
+        <div class="col-md-2"><a href="#" target="_self">发展动态</a></div>
       </div>
         </div>
 			<div class="nav"> </div>
@@ -101,10 +108,10 @@
                                         </div>
 					<div class="right border">
                                         <h5>Technology:</h5>
-                                         <p class="navbar-text navbar-left">Bootstrap,Less</p>
-                                         <p class="navbar-text navbar-left">Laravel,Venus</p>
-                                         <p class="navbar-text navbar-left">Ajax,Json</p>
-                                         <p class="navbar-text navbar-left">Java,SSH</p>
+                                         <p class="navbar-text navbar-left">CSS,Bootstrap</p>
+                                         <p class="navbar-text navbar-left">Laravel,mysql</p>
+                                         <p class="navbar-text navbar-left">Javascript,Ajax</p>
+                                         <p class="navbar-text navbar-left">Java,SSM</p>
 　　　　　　　　　　　　　　　　　　　　</div>
 				</div>
 				<div class="right_box">
@@ -119,7 +126,7 @@
                                          <h5>Technology:</h5>
                                          <p class="navbar-text navbar-left">Objective-c</p>
                                          <p class="navbar-text navbar-left">Java for Android</p>
-                                         <p class="navbar-text navbar-left">Load balancing</p>
+                                         <p class="navbar-text navbar-left">load balancing</p>
                                          <p class="navbar-text navbar-left">Hybrid App</p>
                                         </div>
 				</div>
