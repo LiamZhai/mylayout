@@ -3,7 +3,7 @@
 	<head>
 	 
            <meta charset="utf-8">
-           <meta name="description" content="康云提供 ">
+           <meta name="description" content="康云提供">
            <meta name="keywords" content="康云,郑州康云,康云信息,软件开发,医疗软件开发,动态网站建设">
            <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
            <meta name="viewport" content="width=device-width">	
@@ -30,15 +30,15 @@
     <div class="carousel-inner">
         <div class="item active">
             <img src="images/carousel1.jpg" alt="First slide">
-            <div class="carousel-caption">大数据</div>
+            <div class="carousel-caption"></div>
         </div>
         <div class="item">
             <img src="images/carousel2.jpg" alt="Second slide">
-            <div class="carousel-caption">云平台</div>
+            <div class="carousel-caption"></div>
         </div>
         <div class="item">
             <img src="images/carousel3.jpg" alt="Third slide">
-            <div class="carousel-caption">全民医疗</div>
+            <div class="carousel-caption"></div>
         </div>
     </div>
     <!-- 轮播（Carousel）导航 -->
@@ -62,13 +62,11 @@
 			</div>
 			<div class="nav"> </div>
 			<div id="menu">
-　　　　　　　　　　　　　　
-
         <div class="row">
         <div class="col-md-2"><a href="#" target="_self">公司简介</a></div>
+        <div class="col-md-2"><a href="#" target="_self">公司新闻</a></div>
         <div class="col-md-2"><a href="#" target="_self">经营战略</a></div>
         <div class="col-md-2"><a href="#" target="_self">产品案例</a></div>
-        <div class="col-md-2"><a href="#" target="_self">公司新闻</a></div>
         <div class="col-md-2"><a href="#" target="_self">企业荣誉</a></div>
         <div class="col-md-2"><a href="#" target="_self">发展动态</a></div>
       </div>
@@ -100,42 +98,42 @@
 				<div class="nav"> </div>
 				<div class="left_box">
 					<div class="left border">
-                                         <h5>Web application:</h5> 
-                                         <p class="navbar-text navbar-left">Offical website</p>
-                                         <p class="navbar-text navbar-left">CMS &nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                         <p class="navbar-text navbar-left">WMS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                         <p class="navbar-text navbar-left">API &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                                         <h4>Web Applications:</h4> 
+                                         <p class="rowitem">Offical website</p>
+                                         <p class="rowitem">CMS</p>
+                                         <p class="rowitem">WMS</p>
+                                         <p class="rowitem">API</p>
                                         </div>
 					<div class="right border">
-                                        <h5>Technology:</h5>
-                                         <p class="navbar-text navbar-left">CSS,Bootstrap</p>
-                                         <p class="navbar-text navbar-left">Laravel,mysql</p>
-                                         <p class="navbar-text navbar-left">Javascript,Ajax</p>
-                                         <p class="navbar-text navbar-left">Java,SSM</p>
+                                        <h4>Technology:</h4>
+                                         <p class="rowitem">CSS, Bootstrap</p>
+                                         <p class="rowitem">Laravel, Mysql</p>
+                                         <p class="rowitem">Javascript, Ajax</p>
+                                         <p class="rowitem">Java, SSM</p>
 　　　　　　　　　　　　　　　　　　　　</div>
 				</div>
 				<div class="right_box">
 					<div class="left border">
-                                         <h5>Mobile application:</h5>
-                                         <p class="navbar-text navbar-left">iOS applications</p>
-                                         <p class="navbar-text navbar-left">Android applications</p>
-                                         <p class="navbar-text navbar-left">Wechat applications</p>
-                                         <p class="navbar-text navbar-left">Shopping on mobile</p>
+                                         <h4>Mobile Applications:</h4>
+                                         <p class="rowitem">iOS application</p>
+                                         <p class="rowitem">Android application</p>
+                                         <p class="rowitem">Wechat application</p>
+                                         <p class="rowitem">Shopping on mobile</p>
                                         </div>
 					<div class="right border">
-                                         <h5>Technology:</h5>
-                                         <p class="navbar-text navbar-left">Objective-c</p>
-                                         <p class="navbar-text navbar-left">Java for Android</p>
-                                         <p class="navbar-text navbar-left">load balancing</p>
-                                         <p class="navbar-text navbar-left">Hybrid App</p>
+                                         <h4>Technology:</h4>
+                                         <p class="rowitem">Objective-c</p>
+                                         <p class="rowitem">Java for Android</p>
+                                         <p class="rowitem">Load balancing</p>
+                                         <p class="rowitem">Hybrid App</p>
                                         </div>
 				</div>
 			</div>
 			<div class="nav"> </div>
 			<div id="footer" class="bgcolor">
   			
-　　　　　　　　　　 	　　　<p>Fax: &nbsp;+(86)0371-2222-6666</p>		   
-　　　　　　　　　　　　　　  <p>Phone: &nbsp;+(86)136-2222-6666</p>
+　　　　　　　　　　 	　　　<p>Email: &nbsp;bd@zzkyit.com</p>		   
+　　　　　　　　　　　　　　  <p>Phone: &nbsp;+(86)186-3876-6668</p>
   		　　　　　　　<p>Copyright&copy; 2017 Kyit. All Rights Reserved.</p>　　　　
 　　　　　　　　　　</div>
   		        	  	

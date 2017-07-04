@@ -5836,7 +5836,7 @@ li {
   padding-top: 10px; }
 
 .col-md-2 {
-  margin-top: -9px;
+  margin-top: 8px;
   font-size: 18px; }
 
 a {
@@ -5846,9 +5846,6 @@ a {
 
 p {
   line-height: 0; }
-
-h5 {
-  float: left; }
 
 .carousel-indicators {
   bottom: -12px; }
@@ -5872,5 +5869,13 @@ h5 {
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
   width: 15%; }
+
+.bar-title {
+  line-height: 1.6; }
+
+.rowitem {
+  float: auto;
+  margin: 15px 15px 15px;
+  line-height: 1.6; }
 
 /*# sourceMappingURL=app.css.map */
